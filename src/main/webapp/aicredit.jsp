@@ -474,7 +474,7 @@ circle.progress-ring__circle {
     <header class="header">
         <div class="logo">
             <div class="logo-icon"><i class="fas fa-chart-line"></i></div>
-            AI Analytics
+            TechnoClub
         </div>
         <nav class="nav-menu">
             <a href="student.jsp" class="nav-item"><i class="fas fa-home"></i> Home</a>
