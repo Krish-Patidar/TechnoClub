@@ -116,7 +116,7 @@ This architecture ensures **scalability, modularity, and maintainability**.
 
 ## 👨‍💻 Team ByteSquad
 
-- **Krish Patidar** – Team Leader & Full Stack Developer  
+- **Krish Patidar** – Team Leader & Full Stack Developer (Backend & System Architecture)
 - **Chintu** – Frontend Developer  
 - **Ayyub** – Frontend Developer  
 - **Nitin** – Database & Integration  
