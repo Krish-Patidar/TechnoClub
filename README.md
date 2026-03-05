@@ -155,3 +155,11 @@ This project was developed during **MoonHack'25 Hackathon** to address the digit
 It demonstrates how technology can **simplify organizational management, improve transparency, and enhance collaboration across multiple student chapters**.
 
 ---
+
+## ⚠️ Copyright & Usage Policy
+
+© 2025 Team ByteSquad. All Rights Reserved.
+
+This repository is shared for demonstration and portfolio purposes only.  
+Cloning, reusing, or redistributing the source code or project idea without prior permission from the authors is strictly prohibited.
+
