@@ -105,19 +105,12 @@ This architecture ensures **scalability, modularity, and maintainability**.
 ## 📸 Project Screenshots
 
 | Dashboard | Student Login | Club Admin Login |
-|-----------|------------------|---------------|
-| ![Dashboard](<img width="1857" height="797" alt="Screenshot 2026-03-05 204035" src="https://github.com/user-attachments/assets/365b0ce5-2068-427b-b9a7-aceaa7105bb9" />
-board.png) | ![Student Login](<img width="1878" height="811" alt="Screenshot 2026-03-05 204111" src="https://github.com/user-attachments/assets/c82db043-93ca-4332-a391-46cd7a23a4f1" />
-) | ![Admin Login](<img width="1876" height="820" alt="Screenshot 2026-03-05 204128" src="https://github.com/user-attachments/assets/4a22b45d-6431-43d6-8d9a-b6aee7c4f7cf" />
-) |
+|-----------|---------------|------------------|
+| <img src="https://github.com/user-attachments/assets/365b0ce5-2068-427b-b9a7-aceaa7105bb9" width="400"> | <img src="https://github.com/user-attachments/assets/c82db043-93ca-4332-a391-46cd7a23a4f1" width="400"> | <img src="https://github.com/user-attachments/assets/4a22b45d-6431-43d6-8d9a-b6aee7c4f7cf" width="400"> |
 
 | Club Management | Credit Dashboard | Admin Panel | Participation Management |
-|-----------------|-------------------|-------------|
-| ![Club Management](<img width="1885" height="812" alt="Screenshot 2026-03-05 204201" src="https://github.com/user-attachments/assets/b5bfb7be-021e-4c3d-99c2-2cee11ea2108" />
-) | ![Credit Dashboard](<img width="1919" height="763" alt="Screenshot 2026-03-05 204219" src="https://github.com/user-attachments/assets/f74c87bd-3e7c-4480-9c86-658a636da767" />
-) | ![Admin Panel](<img width="1919" height="635" alt="Screenshot 2026-03-05 204447" src="https://github.com/user-attachments/assets/88496d05-de05-4c93-824e-3767ce510c21" />
-) | ![Participants](<img width="1919" height="704" alt="Screenshot 2026-03-05 204457" src="https://github.com/user-attachments/assets/29f0f205-7341-4ce4-8583-3a37c3d2080f" />
-)
+|-----------------|------------------|-------------|--------------------------|
+| <img src="https://github.com/user-attachments/assets/b5bfb7be-021e-4c3d-99c2-2cee11ea2108" width="350"> | <img src="https://github.com/user-attachments/assets/f74c87bd-3e7c-4480-9c86-658a636da767" width="350"> | <img src="https://github.com/user-attachments/assets/88496d05-de05-4c93-824e-3767ce510c21" width="350"> | <img src="https://github.com/user-attachments/assets/29f0f205-7341-4ce4-8583-3a37c3d2080f" width="350"> |
 
 ---
 
