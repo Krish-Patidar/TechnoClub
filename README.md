@@ -75,13 +75,13 @@ This system improves collaboration and ensures efficient club management.
 
 ## 🛠 Tech Stack
 
-| Layer | Technology |
-|------|-------------|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Core Java, Servlets, JSP |
-| Database | MySQL |
-| Connectivity | JDBC |
-| Server | Apache Tomcat |
+| Layer        | Technology                          |
+|-------------|-------------------------------------|
+| Frontend     | React.js                            |
+| Backend      | Java, Spring Boot, Hibernate (JPA)  |
+| Database     | MySQL                               |
+| APIs         | REST APIs                           |
+| Server       | Apache Tomcat (Embedded)            |
 
 ---
 
